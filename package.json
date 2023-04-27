@@ -1,0 +1,25 @@
+{
+  "name": "plumb-sample",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "uuid": "3.3.2",
+    "react": "16.5.2",
+    "jsplumb": "2.8.0",
+    "react-dom": "16.5.2",
+    "prop-types": "15.6.2",
+    "jsplumb-react": "0.0.27",
+    "lodash.debounce": "4.0.8",
+    "react-virtualized": "9.20.1",
+    "babel-plugin-react-css-modules": "3.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
